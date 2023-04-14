@@ -12,3 +12,7 @@
 1. 根据省份得到城市列表
 2. 根据城市获取区县列表
 3. 根据区县获取到所有的社区
+
+`文件说明`
+1. Community_cn_public.py 将数据存入到excel中
+2. Community_cn_public_sqlite.py 将数据存入到sqlite数据库中
